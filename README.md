@@ -4,7 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)
 ![YFinance](https://img.shields.io/badge/Data-Yahoo%20Finance-green.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📖 Overview
 
@@ -83,6 +82,3 @@ This project is for **educational purposes only**. Stock market prediction is vo
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📜 License
-
-This project is licensed under the MIT License.
